@@ -1,0 +1,32 @@
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.deps.json
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.runtimeconfig.json
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.runtimeconfig.dev.json
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.dll
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.pdb
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.Views.dll
+D:\365Connect\test Project\bin\Debug\netcoreapp2.1\test Project.Views.pdb
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.csprojAssemblyReference.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.csproj.CoreCompileInputs.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.RazorAssemblyInfo.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.RazorAssemblyInfo.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.AssemblyInfoInputs.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.AssemblyInfo.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.TagHelpers.input.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.TagHelpers.output.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.RazorCoreGenerate.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.RazorTargetAssemblyInfo.cache
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.RazorTargetAssemblyInfo.cs
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.Views.pdb
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.dll
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.pdb
+D:\365Connect\test Project\obj\Debug\netcoreapp2.1\test Project.csproj.CopyComplete
